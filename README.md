@@ -1,7 +1,7 @@
 # gist-604b-assignment2
 GIST 604B Assignment 2: QGIS Desktop GIS Projects
 
-Overview
+#Overview#
 This repository is a collection of QGIS tutorials that were assigned for Week 2. There are links for the tutorials below, the outputs and projects are located in the folders. The tutorials helps familiarize myself with the QGIS program which I had not used before. I practiced similar basic skills that I am familiar with in ArcGIS Pro, but now see how to do in QGIS. Some of which include, making map, working spreadsheets to add to maps and joins with layers, and working with symbology. 
 
 Software Environment
