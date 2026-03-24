@@ -16,7 +16,7 @@ QGIS 4.0 on Windows PC
 7. [Performing Table Joins](https://www.qgistutorials.com/en/docs/3/performing_table_joins.html)
 8. [Performing Spatial Joins](https://www.qgistutorials.com/en/docs/3/performing_spatial_joins.html)
 9. [Performing Sptial Queries](https://www.qgistutorials.com/en/docs/3/performing_spatial_queries.html)
-10. pick one...
+10. [Georeferencing topo and scanned maps](https://www.qgistutorials.com/en/docs/3/georeferencing_basics.html)
 
 ###Skills Demonstrated###
 
