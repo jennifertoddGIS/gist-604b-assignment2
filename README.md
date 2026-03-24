@@ -20,13 +20,13 @@ I had some crashing issues at first with QGIS 3.44. But once I reinstalled QGIS 
 10. [Georeferencing topo and scanned maps](https://www.qgistutorials.com/en/docs/3/georeferencing_basics.html)
 
 ### Skills Demonstrated ###
--Making a map layout
--Defining and reprojecting coorindate systems
--Joining attribute tables 
--Editing symbology 
--Creating buffer
--Selecting points by location
--Making georeference points on scanned map
+- Making a map layout
+- Defining and reprojecting coorindate systems
+- Joining attribute tables 
+- Editing symbology 
+- Creating buffer
+- Selecting points by location
+- Making georeference points on scanned map
 
 ### Reflection ###
 The concepts in the tutorials I have been familiar with, just in the Esri programs. It has very similiar workflows, but the buttons and settings are in different areas. The challenging part, in this point in my experience and in the courses, is having little experience outside the Esri products. I have been fortunate be able to have Esri license in my employment, but if the employment were to change, not all businesses could afford the Esri license. Therefore, having the familiarity with this different program to still be able to use the GIS skills that I have, would help broaden my opportunities. 
