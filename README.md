@@ -21,8 +21,8 @@ This project focused on building familiarity with QGIS desktop.
 - Exported maps and organized project files in Github repository
 
 ## How to View / Run
--Open QGIS project files using QGIS Desktop
--View exported maps and screenshots
+-Open QGIS project files using QGIS Desktop  
+-View exported maps and screenshots  
 
 ## Repository Structure
 ```
