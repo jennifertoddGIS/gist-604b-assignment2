@@ -6,7 +6,7 @@
 **University of Arizona**  
 
 ## Project Description
-This project focused on building familiarity with QGIS desktop. 
+This project focused on building foundational desktop GIS skills using QGIS, including data management, spatial analysis, and cartographic design. I completed a series of guided exercises where I imported and styled spatial data, performed joins and overlays, and created professional-quality maps.
 
 ## Tools and Technologies
 - GQIS
